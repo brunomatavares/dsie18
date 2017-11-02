@@ -41,7 +41,6 @@ p {
 }
 
 ul li {
-  font-weight: 700;
   margin-bottom: 10px;
 }
 
@@ -364,6 +363,16 @@ ul li {
   font-size: 20px;
   margin-bottom: 10px;
   font-weight: 300;
+}
+.site-header .intro figure {
+  background-color: rgba(207, 202, 202, 0.5);
+  margin-bottom: 70px;
+}
+.site-header .intro figure img {
+  width: 500px;
+  padding: 20px;
+  position: center;
+  
 }
 
 @media (min-width: 768px) {
